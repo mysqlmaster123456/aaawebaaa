@@ -1,0 +1,88 @@
+.container{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#welcome{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#login_form{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+    text-align: center;
+}
+body{
+    margin: 0 0 0;
+}
+.body{
+    margin: 0 0 0;
+    width: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+#divs {
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    padding: 10px;
+}
+
+#info {
+    width: 50%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+
+#results {
+    width: 50%;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+.menu{
+    padding-bottom: 40px;
+}
+#tests{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.test{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
